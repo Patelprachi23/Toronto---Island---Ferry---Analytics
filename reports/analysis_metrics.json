@@ -1,0 +1,49 @@
+{
+  "records": 261538,
+  "start": "2015-05-01 13:30:00",
+  "end": "2025-12-21 22:30:00",
+  "sales": 12972051,
+  "redemptions": 12785293,
+  "net": 186758,
+  "avg_sales": 49.59910605724598,
+  "avg_red": 48.885030091229574,
+  "peak_hour": 12,
+  "peak_hour_red": 12,
+  "peak_hours": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "off_hours": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "offseason_index": 7.845904049874486,
+  "season_avg": {
+    "Fall": 36.5840934713539,
+    "Spring": 27.796176567115197,
+    "Summer": 105.28925776319112,
+    "Winter": 8.260894138924998
+  },
+  "sales_outlier": [
+    0.0,
+    115.5,
+    32626
+  ],
+  "red_outlier": [
+    0.0,
+    95.5,
+    36857
+  ],
+  "dup_timestamps": 0,
+  "missing_timestamps": 0,
+  "negative_sales": 0,
+  "negative_red": 0
+}
